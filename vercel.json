@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://accredian-backend-task-vv14.onrender.com/$1"
+    }
+  ]
+}

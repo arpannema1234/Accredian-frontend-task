@@ -1,0 +1,47 @@
+.referral-benefits {
+  padding: 40px 0;
+  background-color: #e9ecef;
+}
+.container2 {
+  width: 80%;
+  margin: auto;
+}
+.referral-benefits h2 {
+  font-size: 30px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.referral-benefits table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.referral-benefits table th,
+.referral-benefits table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+.referral-benefits table th {
+  background-color: #007bff;
+  color: white;
+}
+
+.refer-now-btn {
+  display: block;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.refer-now-btn:hover {
+  background-color: #218838;
+}
