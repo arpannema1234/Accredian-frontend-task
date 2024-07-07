@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "https://accredian-backend-task-vv14.onrender.com/$1"
+      "destination": "https://accredian-backend-task-vv14.onrender.com/api/$1"
     }
   ]
 }
